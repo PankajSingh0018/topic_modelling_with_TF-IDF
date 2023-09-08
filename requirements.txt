@@ -5,3 +5,7 @@ scipy
 gensim 
 nltk
 ipykernel
+matplotlib
+pyLDAvis
+plotly
+nbformat==5.9.2
