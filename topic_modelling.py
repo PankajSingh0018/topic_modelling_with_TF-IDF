@@ -1,8 +1,4 @@
-#  TOPIC MODELING/TEXT CLASS. SERIES  #
-#             Lesson 02.03            #
-# TF-IDF in Python with Scikit Learn  #
-#               with                  #
-#        Dr. W.J.B. Mattingly         #
+# Topic Modelling using TF-IDF
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
